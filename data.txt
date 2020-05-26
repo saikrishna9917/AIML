@@ -1,1 +1,5 @@
 AIandML
+advanced programming-c/c++/python
+data science
+basics of python programming
+python programming is easy and simple to learn
